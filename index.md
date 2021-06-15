@@ -1,55 +1,76 @@
- <center>
-     <h1>XXX</h1>
-     <div>
-         <span>
-             <img src="assets/phone-solid.svg" width="18px">
-             18061887413
-         </span>
-         ·
-         <span>
-             <img src="assets/envelope-solid.svg" width="18px">
-             twqabc@gmail.com
-         </span>
-         ·
-         <span>
-             <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/twqabc">Twqabc</a>
-         </span>
-         ·
-<!--          <span>
-             <img src="assets/rss-solid.svg" width="18px">
-             <a href="#">My Blog</a>
-         </span> -->
-     </div>
- </center>
 
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+# 联系方式
 
- - 男，2001 年出生
- - 求职意向：软件测试实习生
+- 手机：18061887413
+- Email：twqabc@gmail.com
+- QQ/微信号：xltipa
 
-## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
+---
 
-- 大专，南京财经高等职业技术学习，计算机网络专业，2017.9~2022.9
+# 个人信息
 
-<!-- ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
+ - 田伟奇/男/2001
+ - 大专/南京财经高等职业技术学校计算机网络专业
+ - Github：http://github.com/twqabc
 
-- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
+ - 期望职位：软件测试实习生
+ - 期望薪资：税前月薪2k~，特别喜欢的公司可例外
+ - 期望城市：南京
 
-   负责 XXX -->
+---
 
-## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
+<!-- # 工作经历
+（工作经历按逆序排列，最新的在最前边，按公司做一级分组，公司内按二级分组）
 
-- **个人blog网站**
+## ABC公司 （ 2012年9月 ~ 2014年9月 ）
 
-  *使用到的技术*
+### DEF项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-  Vue，node，Express，Axios，JavaScript，MongoDB
 
-## <img src="assets/tools-solid.svg" width="30px"> 技能清单
+### GHI项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
 
-- ★★★ JavaScript
-- ★★☆ C
-- ★★★ node
-- ★★★ vue
-- ★★☆ mongodb
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
+ 
+## JKL公司 （ 2010年3月 ~ 2012年8月 ）
+
+### MNO项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### PQR项目 
+我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+
+### 其他项目
+
+（每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
+
+--- -->
+## 开源项目
+
+ - [STU](https://github.com/twqabc/vueBlog)：个人博客网站
+ - [WXYZ](https://github.com/twqabc/gp-qxs)：栖霞山网站
+
+
+# 技能清单
+
+以下均为我熟练使用的技能
+
+- Web开发：Node
+- Web框架：Django
+- 前端框架：Bootstrap/Vue JS
+- 前端工具：Sass
+- 数据库相关：Mongodb/SQLite
+- 版本管理、文档和自动化部署工具：Git
+- 单元测试：SimpleTest
+- 云和开放平台：微信应用开发
+
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
