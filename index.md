@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+ <center>
+     <h1>XXX</h1>
+     <div>
+         <span>
+             <img src="assets/phone-solid.svg" width="18px">
+             18061887413
+         </span>
+         ·
+         <span>
+             <img src="assets/envelope-solid.svg" width="18px">
+             twqabc@gmail.com
+         </span>
+         ·
+         <span>
+             <img src="assets/github-brands.svg" width="18px">
+             <a href="https://github.com/twqabc">Twqabc</a>
+         </span>
+         ·
+<!--          <span>
+             <img src="assets/rss-solid.svg" width="18px">
+             <a href="#">My Blog</a>
+         </span> -->
+     </div>
+ </center>
 
-You can use the [editor on GitHub](https://github.com/twqabc/twqabc.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+ ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ - 男，2001 年出生
+ - 求职意向：软件测试实习生
 
-### Markdown
+## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 大专，南京财经高等职业技术学习，计算机网络专业，2017.9~2022.9
 
-```markdown
-Syntax highlighted code block
+<!-- ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-# Header 1
-## Header 2
-### Header 3
+- **XXXX 公司，XXXX 部门，XXXX 工程师，2010.1~2010.9**
 
-- Bulleted
-- List
+   负责 XXX -->
 
-1. Numbered
-2. List
+## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
-**Bold** and _Italic_ and `Code` text
+- **个人blog网站**
 
-[Link](url) and ![Image](src)
-```
+  *使用到的技术*
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  Vue，node，Express，Axios，JavaScript，MongoDB
 
-### Jekyll Themes
+## <img src="assets/tools-solid.svg" width="30px"> 技能清单
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twqabc/twqabc.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ★★★ JavaScript
+- ★★☆ C
+- ★★★ node
+- ★★★ vue
+- ★★☆ mongodb
