@@ -12,6 +12,7 @@
  - 田伟奇/男/2001
  - 大专/南京财经高等职业技术学校计算机网络专业
  - Github：http://github.com/twqabc
+ - Segmentfault:https://segmentfault.com/u/twqabc
 
  - 期望职位：软件测试实习生
  - 期望薪资：税前月薪2k~，特别喜欢的公司可例外
@@ -52,7 +53,7 @@
 （每个公司写2~3个核心项目就好了，如果你有非常大量的项目，那么按分类进行合并，每一类选一个典型写出来。其他的一笔带过即可。）
 
 --- -->
-## 开源项目
+# 开源项目
 
  - [STU](https://github.com/twqabc/vueBlog)：个人博客网站
  - [WXYZ](https://github.com/twqabc/gp-qxs)：栖霞山网站
