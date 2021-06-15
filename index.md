@@ -11,8 +11,8 @@
 
  - 田伟奇/男/2001
  - 大专/南京财经高等职业技术学校计算机网络专业
- - Github：<http://github.com/twqabc>
- - Segmentfault: <https://segmentfault.com/u/twqabc>
+ - Github：<a> http://github.com/twqabc </a>
+ - Segmentfault: <a> https://segmentfault.com/u/twqabc </a>
 
  - 期望职位：软件测试实习生
  - 期望薪资：税前月薪2k~，特别喜欢的公司可例外
